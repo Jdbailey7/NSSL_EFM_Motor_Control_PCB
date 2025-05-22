@@ -1973,6 +1973,198 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "leds_0805:1-0000599"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "1-0000599"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "leds_0805:1-0000599"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Light emitting diode Blue"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Internal Part Number" "1-0000599"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Populated" "1"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "PValue" "Blue"
+				(at 0.635 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "LED blue diode Blue"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "1-0000599_0_1"
+				(polyline
+					(pts
+						(xy -3.048 -0.762) (xy -4.572 -2.286) (xy -3.81 -2.286) (xy -4.572 -2.286) (xy -4.572 -1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 -0.762) (xy -3.302 -2.286) (xy -2.54 -2.286) (xy -3.302 -2.286) (xy -3.302 -1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "1-0000599_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "leds_0805:1-0000600"
 			(pin_numbers
 				(hide yes)
@@ -7485,7 +7677,25 @@
 			"AHkEgEM6L1dJTkRPV1MvZm9udHNcbXN5aC50dGMAAAAAAAAAAAAAAAAAAACtEVWOAHoEgACHC5cQ"
 			"AgAAAwAAAAAAAABQsQmXEAIAAAEAAAAAAAAAAAAAAAAAAABSEVaOAHsEgAAAAAAAAAAAAwAAAAAA"
 			"AACAgguXEAIAAAEAAAAAAAAAAAAAAAAAAABXEauOAHwEgAAAAAAAAAAAAwAAAAAAAABQkwqXEAIA"
-			"AAEAAAAAAA=="
+			"AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADIBAAAAAAAAsDvbnhACAABANb8E+n8AAAMBAAD/////"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwEAAAAAAABwqIKgEAIAAEA1vwT6fwAAAwEAAP////8A"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0AQAAAAAAALA7254QAgAAQDW/BPp/AAADAQAA/////wAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAADUBAAAAAAAAcKiCoBACAABANb8E+n8AAAMBAAD/////AAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAANgEAAAAAAACwO9ueEAIAAEA1vwT6fwAAAwEAAP////8AAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAA3AQAAAAAAAHCogqAQAgAAQDW/BPp/AAADAQAA/////wAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAADgBAAAAAAAAUDDbnhACAAAQWb8E+n8AAAIBAAD/////AAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAKgEAAAAAAABQMNueEAIAABBZvwT6fwAAAgEAAP////8AAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAA7AQAAAAAAALA7254QAgAA8DO/BPp/AAACAQAA/////wAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAADkBAAAAAAAAcKiCoBACAADwM78E+n8AAAIBAAD/////AAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAOgEAAAAAAACwO9ueEAIAAChGvwT6fwAAAgEAAP////8AAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAA9AQAAAAAAAAAAAAAAAAAAHgAAHhP/VADwbRu/EAIAACAjc/wQAgAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAA=="
 		)
 	)
 	(global_label "Temp_Sense"
@@ -10790,7 +11000,7 @@
 		)
 	)
 	(symbol
-		(lib_id "leds_0805:1-0000600")
+		(lib_id "leds_0805:1-0000599")
 		(at 139.7 80.01 0)
 		(mirror x)
 		(unit 1)
@@ -10800,14 +11010,14 @@
 		(dnp no)
 		(uuid "59622064-5098-48bf-b2fa-40e494aa2e2b")
 		(property "Reference" "D2"
-			(at 139.7 84.328 0)
+			(at 139.7 84.074 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "1-0000600"
+		(property "Value" "1-0000599"
 			(at 139.7 77.47 0)
 			(effects
 				(font
@@ -10816,7 +11026,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "leds_0805:1-0000600"
+		(property "Footprint" "leds_0805:1-0000599"
 			(at 139.7 80.01 0)
 			(effects
 				(font
@@ -10834,7 +11044,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode Red"
+		(property "Description" "Light emitting diode Blue"
 			(at 139.7 80.01 0)
 			(effects
 				(font
@@ -10843,7 +11053,7 @@
 				(hide yes)
 			)
 		)
-		(property "Internal Part Number" "1-0000600"
+		(property "Internal Part Number" "1-0000599"
 			(at 139.7 80.01 0)
 			(effects
 				(font
@@ -10861,8 +11071,8 @@
 				(hide yes)
 			)
 		)
-		(property "PValue" "Red"
-			(at 139.7 82.55 0)
+		(property "PValue" "Blue"
+			(at 139.7 82.296 0)
 			(effects
 				(font
 					(size 1.27 1.27)
