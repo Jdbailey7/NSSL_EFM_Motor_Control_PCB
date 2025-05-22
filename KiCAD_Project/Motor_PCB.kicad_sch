@@ -4039,6 +4039,290 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "resistors_0603:1-0000174"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 2.032 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "1-0000174"
+				(at 0 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "resistors_0603:1-0000174"
+				(at -1.778 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Resistor 100k 1% 0603"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Internal Part Number" "1-0000174"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Populated" "1"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "PValue" "100k"
+				(at 0 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "R res resistor 100k"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "1-0000174_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "1-0000174_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "resistors_0603:1-0001756"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 2.032 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "1-0001756"
+				(at 0 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "resistors_0603:1-0001756"
+				(at -1.778 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "37.9 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200, Moisture Resistant Metal Film"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Internal Part Number" "1-0001756"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Populated" "1"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "PValue" "37.9k"
+				(at 0 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "RES 37.9K OHM 0.1% 1/10W 0603"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "1-0001756_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "1-0001756_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 	)
 	(text "Motor"
 		(exclude_from_sim no)
@@ -4111,6 +4395,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "02b23b0b-104e-491f-a248-3e567baf4263")
+	)
+	(junction
+		(at 34.29 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1264de11-dacd-4948-bfc6-32e6757f02f1")
 	)
 	(junction
 		(at 124.46 107.95)
@@ -4321,6 +4611,16 @@
 			(type default)
 		)
 		(uuid "03eb6291-aaa7-475e-84c2-81838dc9cf67")
+	)
+	(wire
+		(pts
+			(xy 20.32 45.72) (xy 25.4 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e613e30-bdfc-4932-92ea-eb873b94734b")
 	)
 	(wire
 		(pts
@@ -4744,6 +5044,26 @@
 	)
 	(wire
 		(pts
+			(xy 38.1 45.72) (xy 34.29 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "914b0652-8236-40f1-a491-97012fc0c67b")
+	)
+	(wire
+		(pts
+			(xy 34.29 45.72) (xy 33.02 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94c2d9c9-326f-48a6-ab41-85a32ba02c0f")
+	)
+	(wire
+		(pts
 			(xy 134.62 135.89) (xy 124.46 135.89)
 		)
 		(stroke
@@ -4831,6 +5151,16 @@
 			(type default)
 		)
 		(uuid "c66781e7-e0d8-474e-814c-c3412ca8abd8")
+	)
+	(wire
+		(pts
+			(xy 20.32 44.45) (xy 20.32 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c77a8a1e-47d9-40bb-b8e0-b89d7576b879")
 	)
 	(wire
 		(pts
@@ -4961,6 +5291,16 @@
 			(type default)
 		)
 		(uuid "f242eb69-1a6b-4902-9350-264cde8ada48")
+	)
+	(wire
+		(pts
+			(xy 34.29 46.99) (xy 34.29 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f30f0549-fe6c-47ab-9fbe-d37658a29fe3")
 	)
 	(wire
 		(pts
@@ -5290,7 +5630,25 @@
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAtzLUx9eh+DkAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAEAIAAMAxD58QAgAAAAAAAAAAAAAAAAAA"
 			"AAAAAEBQyJgQAgAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
-			"AAAAAAAAAA=="
+			"AAAAAAAAABACAABNAwAAEAIAAAEAAAAQAgAAMD/olxACAAAgP+iXEAIAAE0DAABNAwAAAQAAABAC"
+			"AADQRuiXEAIAAAAAAAAAAAAA0NErzhACAADXEAKFEIgAgHCPa84QAgAAsI1rzhACAADAkGvOEAIA"
+			"AAEAK84QAgAAVQMAABACAAABAAAAEAIAAGBF6JcQAgAAUEXolxACAABVAwAAVQMAAAEAAAAQAgAA"
+			"kEHolxACAAAAAAAAAAAAAHDmK84QAgAA2BB7hRCJAICg5+65EAIAAFCQa84QAgAAoOfuuRACAAAB"
+			"ACvOEAIAAFYDAAAQAgAAAQAAABACAADwReiXEAIAAOBF6JcQAgAAVgMAAFYDAAABAAAAEAIAAIBF"
+			"6JcQAgAAAAAAAAAAAACQ5CvOEAIAAMEQdIUQigCAIHlrzhACAABAjWvOEAIAAPCSa84QAgAAAQAr"
+			"zhACAABHAwAAEAIAAAEAAAAQAgAAcETolxACAABgROiXEAIAAEcDAABHAwAAAQAAABACAABwPeiX"
+			"EAIAAAAAAAAAAAAAoPIrzhACAADKEG2FEIsAgKDn7rkQAgAAgJJrzhACAACg5+65EAIAAAEAK84Q"
+			"AgAASgMAABACAAABAAAAEAIAAJBC6JcQAgAAgELolxACAABKAwAASgMAAAEAAAAQAgAAAETolxAC"
+			"AAAAAAAAAAAAADAXLM4QAgAA8xBmhRCMAICg5+65EAIAAICSa84QAgAAoOfuuRACAAABACzOEAIA"
+			"AEgDAAAQAgAAAQAAABACAAAAP+iXEAIAAPA+6JcQAgAASAMAAEgDAAABAAAAEAIAANBA6JcQAgAA"
+			"AAAAAAAAAADAHSzOEAIAAPQQX4UQjQCAEJJrzhACAADwkmvOEAIAAKCRa84QAgAAAQAszhACAABJ"
+			"AwAAEAIAAAEAAAAQAgAAUD3olxACAABAPeiXEAIAAEkDAABJAwAAAQAAABACAAAwPuiXEAIAAAAA"
+			"AAAAAAAAoC4szhACAAD9EFiFEI4AgICSa84QAgAAMJFrzhACAADgj2vOEAIAAAEAK84QAgAASwMA"
+			"ABACAAABAAAAEAIAACBD6JcQAgAAEEPolxACAABLAwAASwMAAAEAAAAQAgAAoEbolxACAAAAAAAA"
+			"AAAAAOAqLM4QAgAA5hBRhRCPAICg5+65EAIAAOCPa84QAgAAoOfuuRACAAABACzOEAIAAEwDAAAQ"
+			"AgAAAQAAABACAACgO+iXEAIAAJA76JcQAgAATAMAAEwDAAABAAAAEAIAALBC6JcQAgAAAAAAAAAA"
+			"AADADizOEAIAAO8QSoUQkACAoOfuuRACAADQjGvOEAIAAKDn7rkQAgAAAQAszhACAABQAwAAEAIA"
+			"AAEAAAAQAg=="
 		)
 	)
 	(global_label "Motor_Encoder_A"
@@ -5306,6 +5664,28 @@
 		(uuid "128ea2f7-ec0a-44bf-8a0a-4d7e564468d5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 181.999 110.4106 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Vsense"
+		(shape passive)
+		(at 38.1 45.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "176302a4-f124-4437-a080-608de6805597")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 46.4449 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9375,6 +9755,100 @@
 		)
 	)
 	(symbol
+		(lib_id "resistors_0603:1-0000174")
+		(at 29.21 45.72 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a796947d-5f16-4615-bddc-d000bb9bdf5c")
+		(property "Reference" "R30"
+			(at 29.21 43.688 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1-0000174"
+			(at 29.21 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "resistors_0603:1-0000174"
+			(at 29.21 47.498 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 29.21 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor 100k 1% 0603"
+			(at 29.21 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Internal Part Number" "1-0000174"
+			(at 29.21 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Populated" "1"
+			(at 29.21 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PValue" "100k"
+			(at 29.21 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "67a87372-45ec-4408-8cfc-4683be30a841")
+		)
+		(pin "2"
+			(uuid "60be448e-677e-4e87-aba8-5e2e914774bd")
+		)
+		(instances
+			(project ""
+				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
+					(reference "R30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "capacitors_0603:1-0000018")
 		(at 69.85 185.42 0)
 		(unit 1)
@@ -9835,6 +10309,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+BATT")
+		(at 20.32 44.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b0fde19f-170e-42e9-a00e-85ee48824f49")
+		(property "Reference" "#PWR060"
+			(at 20.32 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+BATT"
+			(at 20.701 40.0558 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 20.32 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 20.32 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+BATT\""
+			(at 20.32 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f84c3b3c-8f36-4376-8499-713f2193c419")
+		)
+		(instances
+			(project "Motor_PCB"
+				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
+					(reference "#PWR060")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
 		(at 194.31 52.07 0)
 		(mirror y)
@@ -9985,6 +10524,165 @@
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
 					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "resistors_0603:1-0001756")
+		(at 34.29 50.8 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bbe8bc97-05ca-4e0e-927b-bbfbb1bc93ef")
+		(property "Reference" "R31"
+			(at 32.258 50.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1-0001756"
+			(at 34.29 50.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "resistors_0603:1-0001756"
+			(at 36.068 50.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 34.29 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "37.9 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200, Moisture Resistant Metal Film"
+			(at 34.29 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Internal Part Number" "1-0001756"
+			(at 34.29 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Populated" "1"
+			(at 34.29 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PValue" "37.9k"
+			(at 34.29 50.8 90)
+			(effects
+				(font
+					(size 1.143 1.143)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "8e1a43fe-bea2-4222-9af2-d56ee461115d")
+		)
+		(pin "1"
+			(uuid "641e8932-5de6-4c48-a34b-8202ab0b0f1e")
+		)
+		(instances
+			(project ""
+				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
+					(reference "R31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 34.29 54.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c4c5291a-38ec-4472-a3fd-4dadbea7c425")
+		(property "Reference" "#PWR069"
+			(at 34.29 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 34.29 58.674 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 34.29 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 34.29 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 34.29 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4dd3007d-1eac-464f-a2a5-2a1a44f1e37e")
+		)
+		(instances
+			(project "Motor_PCB"
+				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
