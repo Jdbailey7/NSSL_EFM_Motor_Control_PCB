@@ -6429,6 +6429,24 @@
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAAAA=="
 		)
 	)
@@ -6946,7 +6964,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00adf305-58ff-4e65-b7de-5f440a4d2c6d")
-		(property "Reference" "R7"
+		(property "Reference" "R10"
 			(at 220.98 37.465 90)
 			(effects
 				(font
@@ -7025,7 +7043,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "R7")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -7137,7 +7155,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "05978218-abcf-4bb2-aa3f-ef2c1d7c44bd")
-		(property "Reference" "R6"
+		(property "Reference" "R9"
 			(at 216.535 77.47 90)
 			(effects
 				(font
@@ -7218,7 +7236,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "R6")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -7233,7 +7251,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "100b8483-fe21-40bf-98d6-f8f15a7a707c")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR035"
 			(at 214.63 86.36 0)
 			(effects
 				(font
@@ -7283,7 +7301,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR031")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -7395,7 +7413,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "10b820e9-2b83-4872-9136-0317e891cb9f")
-		(property "Reference" "Q2"
+		(property "Reference" "Q3"
 			(at 163.83 145.288 90)
 			(effects
 				(font
@@ -7481,7 +7499,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "Q2")
+					(reference "Q3")
 					(unit 1)
 				)
 			)
@@ -7497,7 +7515,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "10c968bd-e010-49ed-b07b-91e4d71c220b")
-		(property "Reference" "R5"
+		(property "Reference" "R8"
 			(at 173.99 58.928 90)
 			(effects
 				(font
@@ -7577,7 +7595,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "R5")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -7592,7 +7610,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1209cea2-51f9-4eca-8b94-a0c69764cc07")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR011"
 			(at 77.47 30.48 0)
 			(effects
 				(font
@@ -7642,7 +7660,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR04")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -7722,7 +7740,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "14df850a-34a9-4a0e-88bd-f2649a9d56ee")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR026"
 			(at 170.18 118.11 0)
 			(effects
 				(font
@@ -7772,7 +7790,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR010")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -7895,7 +7913,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "17f8b085-b38d-408d-a833-542629d0f4c6")
-		(property "Reference" "C4"
+		(property "Reference" "C7"
 			(at 150.495 37.465 90)
 			(effects
 				(font
@@ -7975,7 +7993,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "C4")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -7991,7 +8009,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1b196013-d1fe-427f-bbd3-c2506eae48ba")
-		(property "Reference" "U3"
+		(property "Reference" "U4"
 			(at 197.104 141.224 0)
 			(effects
 				(font
@@ -8081,7 +8099,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "U3")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -8096,7 +8114,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1be9b51b-bc45-446e-8651-d3ec26b71f61")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR024"
 			(at 157.48 118.11 0)
 			(effects
 				(font
@@ -8146,7 +8164,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR05")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -8252,7 +8270,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2099d180-8a99-459b-b221-4c464f4e7a54")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR037"
 			(at 231.14 43.18 0)
 			(effects
 				(font
@@ -8302,7 +8320,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR033")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -8318,7 +8336,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "21e093dc-4695-4392-950c-dea303368c9a")
-		(property "Reference" "R4"
+		(property "Reference" "R7"
 			(at 172.212 138.43 90)
 			(effects
 				(font
@@ -8397,7 +8415,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "R4")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -8509,7 +8527,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2bb244c0-443a-4f14-9fd8-de14a6b3d667")
-		(property "Reference" "U4"
+		(property "Reference" "U2"
 			(at 146.05 46.99 0)
 			(effects
 				(font
@@ -8659,7 +8677,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "U4")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -8674,7 +8692,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "360d8be6-91cd-4293-b33a-cc75134678c1")
-		(property "Reference" "R1"
+		(property "Reference" "R4"
 			(at 155.448 118.11 90)
 			(effects
 				(font
@@ -8753,7 +8771,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "R1")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -8768,7 +8786,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3adf10ab-507f-4380-a2d8-4a6e8b115e75")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR015"
 			(at 113.03 52.07 0)
 			(effects
 				(font
@@ -8818,7 +8836,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR013")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -8834,7 +8852,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3fa96e9b-782d-4fea-975b-a73df0ec808f")
-		(property "Reference" "R3"
+		(property "Reference" "R6"
 			(at 172.212 118.11 90)
 			(effects
 				(font
@@ -8913,7 +8931,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "R3")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -9018,7 +9036,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4c6ad4c1-0398-4889-b230-740faab1908e")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR014"
 			(at 111.76 72.39 0)
 			(effects
 				(font
@@ -9068,7 +9086,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR09")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -9083,7 +9101,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4d3a5dd6-2f08-4121-99ba-51f3c52c4b72")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR031"
 			(at 200.66 111.76 0)
 			(effects
 				(font
@@ -9133,7 +9151,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR017")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -9148,7 +9166,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "50b68a96-7721-4e05-8330-ebe731d0e0fe")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR027"
 			(at 170.18 138.43 0)
 			(effects
 				(font
@@ -9198,7 +9216,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR011")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -9214,7 +9232,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "52566a7a-2afb-4fbf-8c58-9f89804e234f")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR019"
 			(at 133.35 195.58 0)
 			(effects
 				(font
@@ -9264,7 +9282,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR027")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -9279,7 +9297,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "525fccbd-aaf9-42fa-82d8-6251cdb4c194")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR032"
 			(at 200.66 132.08 0)
 			(effects
 				(font
@@ -9329,7 +9347,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR018")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -9505,7 +9523,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6168f5da-d40a-4dc1-b6b3-51ceae4d6118")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR017"
 			(at 123.19 195.58 0)
 			(effects
 				(font
@@ -9555,7 +9573,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR025")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -9635,7 +9653,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6accde1e-1233-457d-9437-ce3f47a8f7d8")
-		(property "Reference" "D11"
+		(property "Reference" "D2"
 			(at 63.754 31.75 0)
 			(effects
 				(font
@@ -9723,7 +9741,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "D11")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -9738,7 +9756,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "731e1502-30ac-4710-b9fd-3112bac1dfe3")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR038"
 			(at 231.14 64.77 0)
 			(effects
 				(font
@@ -9788,7 +9806,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR034")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -9803,7 +9821,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "733c7f35-59de-4f3c-9a87-50205528205c")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR036"
 			(at 227.33 86.36 0)
 			(effects
 				(font
@@ -9853,7 +9871,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR032")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -9966,7 +9984,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7893e4ed-354b-4ed8-989e-7a7c07defdc1")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR040"
 			(at 236.22 69.85 0)
 			(effects
 				(font
@@ -10016,7 +10034,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR036")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -10137,7 +10155,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8eba88a1-d78b-445c-a679-ddd9426c33c6")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR018"
 			(at 133.35 184.15 0)
 			(effects
 				(font
@@ -10187,7 +10205,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR026")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -10269,7 +10287,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "930656fe-576f-4f3c-996a-fb1fa021686e")
-		(property "Reference" "Q3"
+		(property "Reference" "Q1"
 			(at 50.8 21.59 90)
 			(effects
 				(font
@@ -10353,7 +10371,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "Q3")
+					(reference "Q1")
 					(unit 1)
 				)
 			)
@@ -10553,7 +10571,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "98c96a44-db62-4156-8bab-79ef8f6ce9b1")
-		(property "Reference" "#PWR068"
+		(property "Reference" "#PWR06"
 			(at 58.42 49.53 0)
 			(effects
 				(font
@@ -10603,7 +10621,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR068")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -10618,7 +10636,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "99292047-88ea-4e06-8fa8-62accf08a7cd")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR012"
 			(at 80.01 195.58 0)
 			(effects
 				(font
@@ -10668,7 +10686,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR014")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -10683,7 +10701,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9f847ab8-dd2d-4be9-95e3-e03d9aed091f")
-		(property "Reference" "R28"
+		(property "Reference" "R3"
 			(at 56.515 40.64 90)
 			(effects
 				(font
@@ -10773,7 +10791,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "R28")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -10788,7 +10806,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a145a533-82a9-488c-ba5f-fd008b86503a")
-		(property "Reference" "D10"
+		(property "Reference" "D1"
 			(at 55.88 29.718 0)
 			(effects
 				(font
@@ -10869,7 +10887,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "D10")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -10884,7 +10902,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a44d4f05-23f6-48e1-9e60-086aaf15bdab")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR025"
 			(at 157.48 138.43 0)
 			(effects
 				(font
@@ -10934,7 +10952,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR06")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -10949,7 +10967,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a7242682-84f1-4cd9-894c-c63332aef2bd")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR023"
 			(at 156.21 91.44 0)
 			(effects
 				(font
@@ -10999,7 +11017,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR024")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -11014,7 +11032,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a796947d-5f16-4615-bddc-d000bb9bdf5c")
-		(property "Reference" "R30"
+		(property "Reference" "R1"
 			(at 33.02 104.648 90)
 			(effects
 				(font
@@ -11093,7 +11111,7 @@
 		(instances
 			(project ""
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "R30")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -11206,7 +11224,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ab411f80-0bc0-4b89-8078-f4bb100d2818")
-		(property "Reference" "C5"
+		(property "Reference" "C4"
 			(at 110.49 184.15 0)
 			(effects
 				(font
@@ -11288,7 +11306,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "C5")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -11303,7 +11321,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ac12ca85-809d-4568-980f-53d4df727653")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR033"
 			(at 200.66 142.24 0)
 			(effects
 				(font
@@ -11353,7 +11371,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR019")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -11369,7 +11387,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ae3496cc-7840-4035-beff-0764a40de316")
-		(property "Reference" "C6"
+		(property "Reference" "C5"
 			(at 120.65 184.15 0)
 			(effects
 				(font
@@ -11451,7 +11469,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "C6")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -11467,7 +11485,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b0d238f7-baea-4e84-aa03-5e3cf9d1dc20")
-		(property "Reference" "Q1"
+		(property "Reference" "Q2"
 			(at 163.83 124.968 90)
 			(effects
 				(font
@@ -11553,7 +11571,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "Q1")
+					(reference "Q2")
 					(unit 1)
 				)
 			)
@@ -11568,7 +11586,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b0fde19f-170e-42e9-a00e-85ee48824f49")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR03"
 			(at 24.13 109.22 0)
 			(effects
 				(font
@@ -11618,7 +11636,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR060")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -11634,7 +11652,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b15a9857-f147-4d42-8222-d3f9750b266d")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR039"
 			(at 236.22 58.42 0)
 			(effects
 				(font
@@ -11684,7 +11702,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR035")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -11789,7 +11807,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bbe8bc97-05ca-4e0e-927b-bbfbb1bc93ef")
-		(property "Reference" "R31"
+		(property "Reference" "R2"
 			(at 36.068 111.76 90)
 			(effects
 				(font
@@ -11868,7 +11886,7 @@
 		(instances
 			(project ""
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "R31")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -11883,7 +11901,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c24dbcb1-ad40-4f9f-81e6-ea7bedcc6553")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR09"
 			(at 66.04 41.91 0)
 			(effects
 				(font
@@ -11933,7 +11951,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR071")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -11948,7 +11966,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c4c5291a-38ec-4472-a3fd-4dadbea7c425")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR05"
 			(at 38.1 121.92 0)
 			(effects
 				(font
@@ -11998,7 +12016,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR069")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -12013,7 +12031,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c5b48907-7a83-495f-ac8a-73b58e0739b1")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR013"
 			(at 96.52 201.93 0)
 			(effects
 				(font
@@ -12063,7 +12081,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR015")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -12326,7 +12344,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cfd915f3-758d-48b6-ab51-a262f3b18d67")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR04"
 			(at 25.4 36.83 0)
 			(effects
 				(font
@@ -12376,7 +12394,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR03")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -12487,7 +12505,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d8e2f6f0-f6c4-49d5-9df7-b2a0bc12e482")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR022"
 			(at 156.21 44.45 0)
 			(effects
 				(font
@@ -12537,7 +12555,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR023")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -12650,7 +12668,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ddd53efc-7dd4-406f-ba84-39cb658177b5")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR016"
 			(at 113.03 195.58 0)
 			(effects
 				(font
@@ -12700,7 +12718,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR022")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -12715,7 +12733,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e1a735d4-24b1-40f6-af62-ffcf9a13a2ef")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR010"
 			(at 69.85 195.58 0)
 			(effects
 				(font
@@ -12765,7 +12783,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR012")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -12942,7 +12960,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e970f3d6-a778-45ab-84fc-f7abb9e256e0")
-		(property "Reference" "R8"
+		(property "Reference" "R11"
 			(at 220.98 69.215 90)
 			(effects
 				(font
@@ -13021,7 +13039,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "R8")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -13036,7 +13054,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "eb3f4f92-3623-43b1-ae51-00eafdca33a4")
-		(property "Reference" "U2"
+		(property "Reference" "U3"
 			(at 197.104 110.744 0)
 			(effects
 				(font
@@ -13126,7 +13144,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "U2")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -13141,7 +13159,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ebc9ed2f-fef7-4f9c-b309-bc0a79e3e8d3")
-		(property "Reference" "R2"
+		(property "Reference" "R5"
 			(at 155.448 138.43 90)
 			(effects
 				(font
@@ -13220,7 +13238,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "R2")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -13235,7 +13253,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ec659f4a-8bc0-4071-a145-f4a764016df9")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR020"
 			(at 139.7 87.63 0)
 			(effects
 				(font
@@ -13285,7 +13303,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR016")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -13300,7 +13318,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f228404a-cb3e-46b0-9b9e-0cecd9185203")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR034"
 			(at 200.66 162.56 0)
 			(effects
 				(font
@@ -13350,7 +13368,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "#PWR020")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -13431,7 +13449,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f95f9665-6402-46bd-899a-d5163cb3a589")
-		(property "Reference" "C7"
+		(property "Reference" "C6"
 			(at 130.81 184.15 0)
 			(effects
 				(font
@@ -13513,7 +13531,7 @@
 		(instances
 			(project "Motor_PCB"
 				(path "/7183adee-b986-41c5-9750-d06bfb5b9c25"
-					(reference "C7")
+					(reference "C6")
 					(unit 1)
 				)
 			)
