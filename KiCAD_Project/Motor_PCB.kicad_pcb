@@ -19075,7 +19075,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal")
 		(tags "resistor")
 		(property "Reference" "R12"
-			(at 2.286 0 90)
+			(at 2.794 0 90)
 			(layer "F.SilkS")
 			(uuid "45c30bba-d484-4185-ae09-3915f52a8f42")
 			(effects
@@ -22860,7 +22860,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal")
 		(tags "resistor")
 		(property "Reference" "R11"
-			(at 2.31781 0 0)
+			(at 2.794001 0 0)
 			(layer "F.SilkS")
 			(uuid "03629956-fffc-4855-8072-3d6b94083fad")
 			(effects
