@@ -2003,7 +2003,7 @@
 				)
 			)
 		)
-		(property "Populated" "1"
+		(property "Populated" "0"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3275,7 +3275,7 @@
 				)
 			)
 		)
-		(property "Populated" "1"
+		(property "Populated" "0"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7409,7 +7409,7 @@
 				)
 			)
 		)
-		(property "Populated" "1"
+		(property "Populated" "0"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13718,7 +13718,7 @@
 				)
 			)
 		)
-		(property "Populated" "1"
+		(property "Populated" "0"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17010,6 +17010,141 @@
 				(xyz -90 0 0)
 			)
 		)
+	)
+	(footprint "misc:misc_component"
+		(layer "F.Cu")
+		(uuid "bc11005d-7d57-4624-b9ac-501e0ba0c15b")
+		(at 137.668 87.249)
+		(property "Reference" "Cbdg1"
+			(at 0 0.5 0)
+			(layer "Dwgs.User")
+			(uuid "acbc744f-4e30-48ba-a713-197ba2d08c15")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "1-0000007"
+			(at 0 -0.5 0)
+			(layer "F.Fab")
+			(uuid "8f7190ae-36a2-48d3-8891-3317440d5cd7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1e5b4f41-428d-4fb4-a198-4b7d4a980f46")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Misc BOM Item"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "67335da0-c24a-4dde-9aa1-eaccbe91e974")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Internal Part Number" "1-0000007"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f7bdfc4c-7679-4bfb-a465-139a1430843b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Populated" "1"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c600b2b3-0159-4938-92e6-306c5ce87fe0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PValue" "Capacitor"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3777343b-4c3e-4248-8a48-6b18627b9721")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/e312135c-18dd-4390-b05a-37945ca4c2e2")
+		(sheetname "/")
+		(sheetfile "Motor_PCB.kicad_sch")
+		(attr exclude_from_pos_files)
+		(fp_line
+			(start -3.5 -1.5)
+			(end 3.5 -1.5)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "5c4c1160-c6e4-4566-9315-9ed2be2ae21c")
+		)
+		(fp_line
+			(start -3.5 1.5)
+			(end -3.5 -1.5)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "d53f84ca-2797-4df2-b42a-90496476f67e")
+		)
+		(fp_line
+			(start 3.5 -1.5)
+			(end 3.5 1.5)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "9ec3a762-a58c-4574-aaf2-c76973f57e39")
+		)
+		(fp_line
+			(start 3.5 1.5)
+			(end -3.5 1.5)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "bac15744-ec20-4619-9791-cc4204f17b7b")
+		)
+		(embedded_fonts no)
 	)
 	(footprint "mechanical:MountingHole_imperial4"
 		(layer "F.Cu")
