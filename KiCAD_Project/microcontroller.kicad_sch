@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "NSSL EFM - Motor Control PCB")
-		(date "2025-05-21")
-		(rev "1.2")
+		(date "2026-03-05")
+		(rev "1.2.1")
 		(company "Leeman Geophysical LLC")
 		(comment 1 "(479) 373-3736")
 		(comment 2 "Gentry AR, 72734")
@@ -1752,7 +1752,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "eeproms:1-0001755"
+		(symbol "eeproms:1-0001870"
 			(pin_names
 				(offset 0.254)
 			)
@@ -1767,7 +1767,7 @@
 					)
 				)
 			)
-			(property "Value" "1-0001755"
+			(property "Value" "1-0001870"
 				(at -3.556 29.21 0)
 				(effects
 					(font
@@ -1776,7 +1776,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "eeproms:1-0001755"
+			(property "Footprint" "eeproms:1-0001870"
 				(at 0.254 29.21 0)
 				(effects
 					(font
@@ -1796,7 +1796,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "FRAM (Ferroelectric RAM) Memory IC 64Kbit SPI 20 MHz 8-SOP"
+			(property "Description" "FRAM (Ferroelectric RAM) Memory IC 64Kbit SPI 33 MHz 8-SOP"
 				(at 0.254 29.21 0)
 				(effects
 					(font
@@ -1805,7 +1805,7 @@
 					(hide yes)
 				)
 			)
-			(property "Internal Part Number" "1-0001755"
+			(property "Internal Part Number" "1-0001870"
 				(at 0.254 29.21 0)
 				(effects
 					(font
@@ -1823,7 +1823,7 @@
 					(hide yes)
 				)
 			)
-			(property "PValue" "MB85RS64VPNF"
+			(property "PValue" "MB85RS64VYPNF"
 				(at 0 13.462 0)
 				(effects
 					(font
@@ -1831,7 +1831,7 @@
 					)
 				)
 			)
-			(property "ki_keywords" "MB85RS64VPNF IC FRAM 64KBIT SPI 20MHZ 8SOP"
+			(property "ki_keywords" "MB85RS64VYPNF IC FRAM 64KBIT SPI 33MHZ 8SOP"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1840,7 +1840,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "1-0001755_1_1"
+			(symbol "1-0001870_1_1"
 				(rectangle
 					(start -7.62 6.35)
 					(end 7.62 -6.35)
@@ -14823,7 +14823,7 @@
 		)
 	)
 	(symbol
-		(lib_id "eeproms:1-0001755")
+		(lib_id "eeproms:1-0001870")
 		(at 127 124.46 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14840,7 +14840,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1-0001755"
+		(property "Value" "1-0001870"
 			(at 123.444 95.25 0)
 			(effects
 				(font
@@ -14849,7 +14849,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "eeproms:1-0001755"
+		(property "Footprint" "eeproms:1-0001870"
 			(at 127.254 95.25 0)
 			(effects
 				(font
@@ -14869,7 +14869,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "FRAM (Ferroelectric RAM) Memory IC 64Kbit SPI 20 MHz 8-SOP"
+		(property "Description" "FRAM (Ferroelectric RAM) Memory IC 64Kbit SPI 33 MHz 8-SOP"
 			(at 127.254 95.25 0)
 			(effects
 				(font
@@ -14878,7 +14878,7 @@
 				(hide yes)
 			)
 		)
-		(property "Internal Part Number" "1-0001755"
+		(property "Internal Part Number" "1-0001870"
 			(at 127.254 95.25 0)
 			(effects
 				(font
@@ -14896,13 +14896,12 @@
 				(hide yes)
 			)
 		)
-		(property "PValue" "MB85RS64VPNF"
-			(at 127.254 132.334 0)
+		(property "PValue" "MB85RS64VYPNF"
+			(at 135.89 132.842 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(pin "3"
